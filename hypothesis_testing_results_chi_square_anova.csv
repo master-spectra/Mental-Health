@@ -1,0 +1,27 @@
+Признак,Метод проверки,p_value,Значение метрики
+Age,ANOVA,0.0,113699.3398141378
+Age,Критерий хи-квадрат,5.682619237600007e-16,92.276
+Gaming_Hours,ANOVA,0.0,109961.53147828545
+Gaming_Hours,Критерий хи-квадрат,0.11518378625987274,14.206000000000001
+Gender,ANOVA,,
+Gender,Критерий хи-квадрат,0.5952344008538263,1.0376
+Mental_Health_Status,ANOVA,,
+Mental_Health_Status,Критерий хи-квадрат,0.9604792218303982,0.29760000000000003
+Online_Support_Usage,ANOVA,,
+Online_Support_Usage,Критерий хи-квадрат,0.794863773596479,0.0676
+Physical_Activity_Hours,ANOVA,0.0,111258.96529061928
+Physical_Activity_Hours,Критерий хи-квадрат,0.6670756957648778,6.712
+Screen_Time_Hours,ANOVA,0.0,110011.64197274629
+Screen_Time_Hours,Критерий хи-квадрат,0.9254070222310733,3.7779999999999996
+Sleep_Hours,ANOVA,0.0,110271.09809577659
+Sleep_Hours,Критерий хи-квадрат,0.5625911070834009,7.719999999999999
+Social_Media_Usage_Hours,ANOVA,0.0,109446.70311504052
+Social_Media_Usage_Hours,Критерий хи-квадрат,0.7062851996533317,6.332
+Stress_Level,ANOVA,,
+Stress_Level,Критерий хи-квадрат,0.9948134965957668,0.0104
+Support_Systems_Access,ANOVA,,
+Support_Systems_Access,Критерий хи-квадрат,0.9044831479588323,0.0144
+Technology_Usage_Hours,ANOVA,0.0,110346.49409758074
+Technology_Usage_Hours,Критерий хи-квадрат,0.37295065895182955,9.728
+Work_Environment_Impact,ANOVA,,
+Work_Environment_Impact,Критерий хи-квадрат,0.638138458238501,0.8984
